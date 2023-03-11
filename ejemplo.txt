@@ -2,6 +2,6 @@ Hola, este es un archivo de ejemplo.
 
 Este es un nuevo comenzar ya que de aquí a Jr developer y mañana a Senior developer.
 
-No olvidad que siempre es bueno aprender y enseñar.
+No olvidar que siempre es bueno aprender y enseñar.
 
 Saludossss.
