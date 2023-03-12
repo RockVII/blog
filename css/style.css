@@ -6,15 +6,12 @@
     width: 70%;
     margin: auto;
     font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 0;
 
 }
 
 #cabecera{
     text-align: center;
-<<<<<<< HEAD
-    color: blue;
-=======
     color: #222;
->>>>>>> cabecera
     text-decoration: underline;
 }
